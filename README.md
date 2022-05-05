@@ -1,6 +1,6 @@
-# Food Ordering System 🛵🍕🍟🌭
+# Food Ordering System 🛵🍔🍕🥤
 
-The main objective of this online food ordering system is to automate the existing manual ordering system with the help of advanced software solutions so that valuable data can be handled more easily and in real time. It was designed and constructed using **ASP.Net MVC Core, MySQLServer Database, JavaScript, HTML and CSS.**
+ using **ASP.Net MVC Core, MySQLServer Database, JavaScript, HTML and CSS.**
 
 Users can surf the food items in the menu according to categories. They can put items to Cart and pay for them using different payment options. They can track their orders with the food details and delivery status. They can also register and login using external logins from Facebook or Google.
 
@@ -40,13 +40,9 @@ Images from the system:
 
 ![site 1](https://user-images.githubusercontent.com/97969023/162211452-2b717f93-cf42-42e1-a89f-df1af638bb58.png)
 
-![site 2](https://user-images.githubusercontent.com/97969023/162211608-baf835ec-e679-4d50-bcc0-c142ded521ff.png)
-
 ![site 6](https://user-images.githubusercontent.com/97969023/162595593-0e6fcbf9-4571-4fbf-a2cf-8f13bb599bf4.png)
 
 ![site 3](https://user-images.githubusercontent.com/97969023/162211594-f5ebef7b-9f11-4388-9087-e2af2c89583f.png)
-
-![site 5](https://user-images.githubusercontent.com/97969023/162211618-1f7ada3c-81a8-4e4a-8444-a16192e2d08a.png)
 
 ![site 4](https://user-images.githubusercontent.com/97969023/162211585-57c020bc-b5cf-4777-b768-c7a4ff66a497.png)
 
